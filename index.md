@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+道可道，非常道。名可名，非常名。
 
 You can use the [editor on GitHub](https://github.com/ToyoMisaka/Misakamaki/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
